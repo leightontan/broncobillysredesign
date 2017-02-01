@@ -1,0 +1,51 @@
+/* this is my stylesheet for my homepage */
+
+/* fonts info for playbillregular */
+
+
+/* font directory */
+h1, nav {font-family: 'playbillregular';}
+
+
+
+/* table of contents styles */
+nav, h1 {color:blue ; background-color: black;
+  text-align: center;}
+
+
+
+
+
+nav {color: black;
+padding: 10px;}
+
+@media only screen and (max-width: 30em) {
+.map{ margin: -5px;
+   }
+ }
+
+
+ .my-container img {
+     position: absolute;
+     left: 0;
+     top: 0;
+     width: 100%;
+     height: auto;
+     opacity: 0.6;
+
+
+ }
+a:hover {background-color: white;}
+
+
+/* header styles */
+
+/* main body styles */
+
+
+h1, h6 {text-align: center;}
+
+
+
+
+/* footer styles */
